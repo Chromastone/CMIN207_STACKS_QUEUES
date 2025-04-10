@@ -1,0 +1,47 @@
+Welcome to Thibodeaux's Tech Triage
+-----------------------------------
+Type the number for the action you wish to perform and then hit Enter.
+1. Open a new ticket
+2. List All Open Tickets
+3. Close ticket
+4. Review All Closed Tickets
+5. Review Previously Closed Tickets
+6. Quit
+What do you want to do? __7
+I'm sorry, that is not an appropriate action.
+    
+Type the number for the action you wish to perform and then hit Enter.
+1. Open a new ticket
+2. List All Open Tickets
+3. Close ticket
+4. Review All Closed Tickets
+5. Review Previously Closed Tickets
+6. Quit
+What do you want to do?__1
+      Ticket Number: 0001
+      Ticket: PC won't turn on
+Ticket opened!
+
+Type the number for the action you wish to perform and then hit Enter.
+1. Open a new ticket
+2. List All Open Tickets
+3. Close ticket
+4. Review All Closed Tickets
+5. Review Previously Closed Tickets
+6. Quit
+What do you want to do?__1
+      Ticket Number: 0002
+      Ticket: Phone screen broke
+Ticket opened!
+
+Type the number for the action you wish to perform and then hit Enter.
+1. Open a new ticket
+2. List All Open Tickets
+3. Close ticket
+4. Review All Closed Tickets
+5. Review Previously Closed Tickets
+6. Quit
+What do you want to do?__2
+      Open Tickets:
+      #001 PC won't turn on
+      #002 Phone screen broke
